@@ -26,6 +26,7 @@ Each day's folder contains:
 /Images → Topic, practice, and challenge screenshots
 
 🎯 Goal of This Challenge
+
 ✔️ Strengthen SQL fundamentals
 
 ✔️ Solve real-world style problems
