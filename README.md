@@ -6,67 +6,53 @@ A structured 21-day SQL learning journey sponsored by Indian Data Club (IDC) and
 
 This repository contains:
 
-✔ Daily SQL topics
-✔ Practice questions and solutions
-✔ Challenge questions
-✔ Screenshots of outputs
-✔ Cleanly organized folders for each day
+✔️ Daily SQL topics
 
-Each day focuses on one SQL concept, building from basics to advanced queries.
+✔️ Practice questions and solutions
 
-📂 Folder Structure 21-Days-SQL-Challenge-IDC
-Each day contains:
+✔️ Challenge questions
+
+✔️ Screenshots of query outputs
+
+✔️ Clean and organized folder structure
+
+✔️ SQL files for each day's topic
+
+✔️ MySQL Workbench outputs for better understanding
+
+Each day focuses on one SQL concept, building gradually from basics to advanced queries.
+
+📂 Folder Structure
+
+Each day's folder contains:
 
 /Code → SQL files
 
 /Images → Topic, practice, and challenge screenshots
 
-🗓️ Daily Topics Covered
-Day	Topic
-01	SELECT Statement
-02	WHERE Clause
-03	ORDER BY Clause
-04	LIMIT & OFFSET
-05	Aggregate Functions (COUNT, SUM, AVG, MIN, MAX)
-06	GROUP BY Clause
-07	HAVING Clause
-08	String Functions
-09	Date Functions
-10	CASE Statements
-11	DISTINCT & Handling Duplicates
-12	NULL Handling (IS NULL / IS NOT NULL)
-13	INNER JOIN
-(Upcoming JOINs + Advanced topics)
-
-💡 What I Learned
-
-✔ Writing clean SQL queries
-✔ Understanding relational database concepts
-✔ Working with functions, joins, grouping & filtering
-✔ Handling real-world datasets (hospital example)
-✔ Using MySQL Workbench effectively
-✔ Problem-solving through daily challenges
-
-📸 Screenshots Included
-
-Each day includes:
-
-Topic explanation image
-
-Practice query screenshots
-
-Challenge question outputs
-
 🎯 Goal of This Challenge
 
-To build a strong SQL foundation with hands-on practice and become confident in writing real-world queries for analytics and engineering.
+Strengthen SQL fundamentals
+
+Solve real-world style problems
+
+Practice hands-on querying with MySQL
+
+Build a consistent daily learning routine
+
+Create a clean, professional GitHub project
 
 🙌 Acknowledgements
 
-Special thanks to:
-Indian Data Club (IDC), DPDzero, Mentors & peer learners for making this learning journey engaging and structured.
+Thanks to:
 
-⭐ Connect With Me
+Indian Data Club (IDC)
+
+DPDzero
+
+Mentors and peers
+
+for organizing this structured learning challenge.
 
 If you'd like to discuss SQL, data analytics, or projects:
 📬 Swapna Morusu
