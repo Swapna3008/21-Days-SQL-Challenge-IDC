@@ -64,14 +64,7 @@ To build a strong SQL foundation with hands-on practice and become confident in 
 🙌 Acknowledgements
 
 Special thanks to:
-
-Indian Data Club (IDC)
-
-DPDzero
-
-Mentors & peer learners
-
-for making this learning journey engaging and structured.
+Indian Data Club (IDC), DPDzero, Mentors & peer learners for making this learning journey engaging and structured.
 
 ⭐ Connect With Me
 
