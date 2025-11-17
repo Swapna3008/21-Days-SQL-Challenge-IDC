@@ -42,5 +42,7 @@ Thanks to:
 Indian Data Club (IDC), DPDzero, Mentors and peers for organizing this structured learning challenge.
 
 If you'd like to discuss SQL, data analytics, or projects:
+
 📬 Swapna Morusu
+
 🔗 https://www.linkedin.com/in/swapna-morusu-3aa774215/
