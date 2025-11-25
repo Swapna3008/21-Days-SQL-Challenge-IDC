@@ -1,10 +1,10 @@
 /* Challenge Question: For each service, rank the weeks by patient satisfaction score (highest first). 
 Show service, week, patient_satisfaction, patients_admitted, and the rank. Include only the top 3 weeks per service. */
 
-SELECT * FROM( SELECT service, week, SUM(patient_satisfaction) AS satisfaction_score , SUM(patients_admitted) AS Total_admitted,
-ROW_NUMBER() OVER( PARTITION BY service ORDER BY SUM(patient_satisfaction) DESC) AS rnk
+SELECT * FROM ( SELECT service, week, patient_satisfaction, patients_admitted,
+ROW_NUMBER() OVER( PARTITION BY service ORDER BY patient_satisfaction DESC) AS rnk
 FROM services_weekly
-GROUP BY service, week ) AS A
+) AS A
 WHERE rnk <=3;
 
 -- practice question: 1. Rank patients by satisfaction score within each service.
